@@ -17,7 +17,28 @@ int main() {
   // cin some variable to get initial time from user
   std::cin >> hours >> c >> minutes >> c >> seconds;
   // begin loop
-
+  /*
+  bool quit = false;
+  while (!quit) {
+    if (option_one_chosen) {
+      hours++;
+      display_time
+    }
+    if (option_two_chosen) {
+      minutes++;
+      display_time
+    }
+    if (option_three_chosen) {
+      seconds++;
+      display_time
+    }
+    if (option_quit_chosen) {
+      quit = true;
+      // program should now quit
+    }
+  }
+  
+  */
   // display the menu
 
   // decision branching
